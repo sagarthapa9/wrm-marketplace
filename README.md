@@ -1,22 +1,8 @@
-<<<<<<< HEAD
-## BeYourMarket [![Try online](https://img.shields.io/badge/try-demo-green.svg)](http://demo.beyourmarket.com) [![Documentation Status](https://img.shields.io/badge/documentation-1v-blue.svg)](https://beyourmarket.atlassian.net) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/beyourmarket/beyourmarket/blob/master/LICENSE) [![Github Issues](http://issuestats.com/github/beyourmarket/beyourmarket/badge/issue)](https://github.com/beyourmarket/beyourmarket/issues)
-
-BeYourMarket is a free open source marketplace framework built on the ASP.NET platform.
-http://beyourmarket.com
-
-[YouTube BeYourMarket Introduction](https://www.youtube.com/watch?v=kDL3hugqpwM)
-
-[![ScreenShot](http://beyourmarket.com/images/github/beyourmarket2.jpg)](http://beyourmarket.com/)
+# wrm-marketplace
+Online Marketplace web-application
 
 ## Build status ##
 
-Master Branch (`master`)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/ojc6mh88o61cvlgw/branch/master?svg=true)](https://ci.appveyor.com/project/beyourmarket/beyourmarket/branch/master)
-
-Development Branch (`dev`)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/ojc6mh88o61cvlgw/branch/dev?svg=true)](https://ci.appveyor.com/project/beyourmarket/beyourmarket/branch/dev)
 
 ## Installation ##
 
@@ -97,6 +83,4 @@ issue](https://github.com/beyourmarket/beyourmarket/issues/new).
 
 BeYourMarket is open source under MIT license. See [LICENSE](LICENSE) file for details.
 =======
-# wrm-marketplace
-Online Marketplace web-application
->>>>>>> 40e642b54ea1a092e22dc3e9ee5276d9d4bcc8be
+
