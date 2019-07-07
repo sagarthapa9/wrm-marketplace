@@ -22,7 +22,7 @@ namespace BeYourMarket.Model.Models
         }
 
         public BeYourMarketContext()
-            : base("Name=DefaultConnection")
+            : base("name=dbConnection")
         {
         }
 
