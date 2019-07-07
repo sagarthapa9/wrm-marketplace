@@ -1,2 +1,2 @@
 # wrm-marketplace
-Market place web web application
+Online Marketplace web-application
